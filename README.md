@@ -28,7 +28,7 @@ This project analyzes banking transactions, customer behavior, and merchant perf
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](Banking and merchant dashboard.PNG)
+Banking and merchant dashboard.PNG
 
 ---
 
