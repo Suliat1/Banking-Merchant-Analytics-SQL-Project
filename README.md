@@ -28,7 +28,7 @@ This project analyzes banking transactions, customer behavior, and merchant perf
 ---
 
 ## 📈 Dashboard Preview
-Banking and merchant dashboard.PNG
+[Banking and merchant dashboard.PNG](https://github.com/Suliat1/Banking-Merchant-Analytics-SQL-Project/blob/main/Banking%20and%20merchant%20dashboard.PNG)
 
 ---
 
